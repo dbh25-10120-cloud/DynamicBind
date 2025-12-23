@@ -20,4 +20,12 @@ ENV/
 *.egg
 dist/
 build/
-ipynb_checkpoints/*.pyc
+ipynb_checkpoints/
+workdir/
+workdir.zip
+esm_models/
+input/
+*.npy
+.p.npy
+.score.npy
+.so3_*.npy*.pyc
